@@ -209,11 +209,16 @@ h3{
   background-color: #778EE2;
 }
 
+.main-footer a:hover{
+  color: white;
+}
+
+
 
 footer{
-  height: 700px;
+  min-height: 450px;
   width: 100%;
-  background-color: dimgrey;
+  background-color: #23272A;
 }
 
 .bottom{
