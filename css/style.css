@@ -277,7 +277,14 @@ font-size: 12px;
   width: 85%;
 }
 
+.superfooter-img{
+  float: left;
+  line-height: 30px;
+}
+
 #registrati-btn a{
   background-color: #778EE2;
   color: white;
+  float: left;
+  right: 0;
 }
