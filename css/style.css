@@ -253,7 +253,7 @@ footer{
 
 .intro{
   width: 30%;
-  margin: 70px auto;
+  margin: 70px auto 0 70px;
   color: #778EE2;
   font-size: 32px;
 }
@@ -268,10 +268,30 @@ footer{
   color: white;
 }
 
+.lingua img{
+  height: 20px;
+  line-height: 20px;
+}
+
+.lingua a{
+  font-size: 20px;
+  color: white;
+}
+
 .italiano{
 color: white;
 font-size: 12px;
+vertical-align: middle;
 } 
+
+.social{
+  font-size: 25px;
+}
+
+.social a{
+  margin-right: 15px;
+  color: white;
+}
 
 .superfooter{
   width: 85%;
