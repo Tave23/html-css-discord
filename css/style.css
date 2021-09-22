@@ -223,10 +223,11 @@ footer{
 }
 
 .bottom{
-  width: 80%;
+  width: 85%;
   max-width: 1180px;
   height: 100%;
   margin: 20px auto;
+  border-bottom: 2px solid #778EE2;
 }
 
 .bottom ul{
@@ -263,11 +264,20 @@ footer{
   font-size: 15px;
 }
 
-
 .lingua{
   color: white;
 }
 
 .italiano{
 color: white;
+font-size: 12px;
 } 
+
+.superfooter{
+  width: 85%;
+}
+
+#registrati-btn a{
+  background-color: #778EE2;
+  color: white;
+}
