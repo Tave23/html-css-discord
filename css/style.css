@@ -127,25 +127,24 @@ header{
   margin-right: 20px;
 }
 
+/* main */
+
 .block1{
   background-color: white;
   width: 90%;
   margin: 30px auto 100px;
-  max-width: 1180px;
-  height: 450px;
 }
 
 .left-img{
   float: left;
   margin: auto;
-  width: 65%;
+  width: 55%;
 }
 
 .right-text{
+  float: left;
   padding-top: 30px;
-  margin: auto;
   max-width: 500px;
-  display: inline;
 }
 
 h3{
@@ -154,21 +153,12 @@ h3{
   color: black;
 }
 
-.block2{
-  background-color: #F6F6F6;
-  width: %;
-  margin: 30px auto 100px;
-  max-width: 1180px;
-  height: 450px;
-}
 
-.left-text{
-  max-width: 500px;
-  float: left;
-}
 
-/* footer */
-footer{
+
+
+
+/* footer{
   height: 700px;
   width: 100%;
   background-color: dimgrey;
@@ -216,4 +206,5 @@ footer{
 
 .italiano{
 color: white;
-}
+} 
+ */
