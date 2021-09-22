@@ -168,6 +168,7 @@ h3{
   float: left;
   padding-top: 30px;
   max-width: 500px;
+  vertical-align: middle;
 }
 
 .right-img{
@@ -213,10 +214,10 @@ h3{
   color: white;
 }
 
-
+/* footer */
 
 footer{
-  min-height: 450px;
+  min-height: 550px;
   width: 100%;
   background-color: #23272A;
 }
@@ -245,17 +246,23 @@ footer{
   color: white;
 }
 
-.prodotto, .compagnia, .risorse, .norme, .intro{
+.intro, .link-utili{
   float: left;
-  margin: 80px 40px 0 0;
+}
+
+.intro{
+  width: 30%;
+  margin: 70px auto;
+  color: #778EE2;
+  font-size: 32px;
+}
+
+.prodotto, .compagnia, .risorse, .norme{
+  float: left;
+  margin: 70px 10px 15px 55px;
   font-size: 15px;
 }
 
-
-.intro h4{
-  font-size: 30px;
-  color: #778EE2;
-}
 
 .lingua{
   color: white;
