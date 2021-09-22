@@ -126,3 +126,94 @@ header{
 .jumbotron .btn:first-of-type{
   margin-right: 20px;
 }
+
+.block1{
+  background-color: white;
+  width: 90%;
+  margin: 30px auto 100px;
+  max-width: 1180px;
+  height: 450px;
+}
+
+.left-img{
+  float: left;
+  margin: auto;
+  width: 65%;
+}
+
+.right-text{
+  padding-top: 30px;
+  margin: auto;
+  max-width: 500px;
+  display: inline;
+}
+
+h3{
+  font-size: 50px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.block2{
+  background-color: #F6F6F6;
+  width: %;
+  margin: 30px auto 100px;
+  max-width: 1180px;
+  height: 450px;
+}
+
+.left-text{
+  max-width: 500px;
+  float: left;
+}
+
+/* footer */
+footer{
+  height: 700px;
+  width: 100%;
+  background-color: dimgrey;
+}
+
+.bottom{
+  width: 80%;
+  max-width: 1180px;
+  height: 100%;
+  margin: 20px auto;
+}
+
+.bottom ul{
+  list-style: none;
+}
+
+.categoria{
+  color: #778EE2;
+}
+
+.bottom ul li{
+  padding-bottom: 10px;
+}
+
+.bottom ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.prodotto, .compagnia, .risorse, .norme, .intro{
+  float: left;
+  margin: 80px 40px 0 0;
+  font-size: 15px;
+}
+
+
+.intro h4{
+  font-size: 30px;
+  color: #778EE2;
+}
+
+.lingua{
+  color: white;
+}
+
+.italiano{
+color: white;
+}
