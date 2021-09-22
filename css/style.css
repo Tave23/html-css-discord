@@ -275,16 +275,20 @@ font-size: 12px;
 
 .superfooter{
   width: 85%;
+  position: absolute;
 }
 
 .superfooter-img{
   float: left;
-  line-height: 30px;
+  position: relative;
+  left: 150px;
+  top: 20px;
 }
 
 #registrati-btn a{
   background-color: #778EE2;
   color: white;
-  float: left;
-  right: 0;
+  position: relative;
+  left: 1050px;
+  top: 20px;
 }
